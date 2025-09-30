@@ -1,8 +1,8 @@
 url: http://kirbyt.github.io
-baseurl: /timeline-jekyll-theme
+#baseurl: 
 
 # Site Settings
-title: Timeline
+title: Samip Poudel
 description: "Timeline is multipurpose, single page Jekyll theme that includes a timeline section."
 keywords: "jekyll, theme"
 google-tracking-id:
