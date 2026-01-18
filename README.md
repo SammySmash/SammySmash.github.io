@@ -1,4 +1,5 @@
 # Personal-Website
 Personal Website on GitHub Pages 
 ##
-See branch [resume-site](https://github.com/SammySmash/SammySmash.github.io/tree/resume-site) for the currently deployed webpage
+Currently deployed webpage found at https://sammysmash.github.io/
+<br>See branch [resume-site](https://github.com/SammySmash/SammySmash.github.io/tree/resume-site) for source 
