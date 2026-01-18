@@ -3,7 +3,7 @@
 
 My personal website hosted [here](https://sammysmash.github.io/)
 
-Powered by [Timeline](https://github.com/kirbyt/timeline-jekyll-theme)
+Powered by [Greyscale by Bootstrap](https://github.com/StartBootstrap/startbootstrap-grayscale)
 
 ### Running the site locally
 Download and open the repository in a terminal
